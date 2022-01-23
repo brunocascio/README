@@ -12,11 +12,11 @@ About me:
 
 <img 
   height="200px"
-  width="50%"
+  width="50vw"
   src="https://github-readme-stats.vercel.app/api?username=brunocascio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
 />
 <img
   height="200px"
-  width="50%"
+  width="50vw"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocascio&show_icons=true&langs_count=20&theme=dark"
 />
