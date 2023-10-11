@@ -1,9 +1,6 @@
 ## About my github account
 
-<img 
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api?username=brunocascio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=brunocascio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me:
 
